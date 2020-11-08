@@ -34,7 +34,7 @@ dispatcher.add_handler(python_handler)
 
 
 def beck(update, context):
-    context.bot.send_message(chat_id = update.effective_chat.id, text = Beck())
+    context.bot.send_message(chat_id = update.effective_chat.id, text = page_back())
 
 beck_handler = CommandHandler('beck', beck)
 dispatcher.add_handler(beck_handler)
