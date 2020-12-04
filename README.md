@@ -1,2 +1,7 @@
 # JobParserBot
-Bot that parse rabota.yandex.ru with selenium and python-telegram-bot. Vesion: 0.1
+Telegram Bot that give you controll to scrape inforamtion from Yandex Rabota + Selenium
+
+Just do
+1) pip install requirements.txt
+
+Add your 
