@@ -6,7 +6,7 @@ from telegram.ext import MessageHandler, Filters
 from yapars import find_vacancies
 
 
-updater = Updater(token = '1318932508:AAE5l82TDAedYUxSXf0rpAXvzd8d1SwfxOM', use_context = True)
+updater = Updater(token = 'YOUR TOKEN HERE', use_context = True)
 dispatcher = updater.dispatcher
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
