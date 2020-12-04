@@ -15,6 +15,6 @@ Good luck!
 pip install requirements.txt
 
 Вставьте токен вашего бота (JobParserBot.py, line 9)
-Укажите путь к вашему Веб Драйвера (yapars.py, line 7)
+Укажите путь к вашему Веб Драйверу (yapars.py, line 7)
 
 Удачи!
